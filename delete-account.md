@@ -19,7 +19,7 @@ Account deletion is permanent and cannot be undone.
 
 If you cannot access the MinnalHelp app, you can request deletion by contacting:
 
-**[support@minnalhelp.com](mailto:support@minnalhelp.com)**
+**[roopa.inbox@gmail.com](mailto:roopa.inbox@gmail.com)**
 
 Please include the phone number associated with your MinnalHelp account.
 
@@ -54,6 +54,6 @@ We may retain limited information where required for legal, security, fraud-prev
 For questions about deleting your account or your personal information, contact:
 
 **MinnalHelp**
-**Email:** [support@minnalhelp.com](mailto:support@minnalhelp.com)
+**Email:** [roopa.inbox@gmail.com](mailto:roopa.inbox@gmail.com)
 
 **Last updated:** August 15, 2026
