@@ -131,7 +131,7 @@ Information that is no longer required may be deleted or anonymized where approp
 
 You may request deletion of your MinnalHelp account and associated personal information by contacting:
 
-**[support@minnalhelp.com](mailto:support@minnalhelp.com)**
+**[roopa.inbox@gmail.com](mailto:roopa.inbox@gmail.com)**
 
 Please send the request using the phone number or other account information necessary for us to identify and verify the account.
 
@@ -148,7 +148,7 @@ Depending on applicable law, you may have rights relating to your personal infor
 
 To submit a privacy request, contact:
 
-**[support@minnalhelp.com](mailto:support@minnalhelp.com)**
+**[roopa.inbox@gmail.com](mailto:roopa.inbox@gmail.com)**
 
 We may need to verify your identity before processing certain requests.
 
@@ -160,7 +160,7 @@ MinnalHelp is not intended for children under the age required to independently 
 
 We do not knowingly collect personal information directly from children for the purpose of creating MinnalHelp service accounts.
 
-If you believe that a child has provided personal information through MinnalHelp without appropriate authorization, please contact us at **[support@minnalhelp.com](mailto:support@minnalhelp.com)**.
+If you believe that a child has provided personal information through MinnalHelp without appropriate authorization, please contact us at **[roopa.inbox@gmail.com](mailto:roopa.inbox@gmail.com)**.
 
 ## 12. Third-Party Services
 
@@ -189,4 +189,4 @@ Material changes may also be communicated through the App or other appropriate m
 For questions, concerns, account-deletion requests, or other privacy-related requests, contact:
 
 **MinnalHelp**
-**Email:** [support@minnalhelp.com](mailto:support@minnalhelp.com)
+**Email:** [roopa.inbox@gmail.com](mailto:roopa.inbox@gmail.com)
